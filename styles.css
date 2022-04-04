@@ -1,0 +1,9 @@
+/* Place your CSS styles in this file */
+.menu{
+    justify-content: space-around;
+    color: white;
+    background: rgb(20, 20, 20);
+}
+a.nav-link:hover{
+    color: white;
+}
